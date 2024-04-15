@@ -1,0 +1,1 @@
+This is my very little effort to get MicroPython up and running on ATSAMD21G18A ARM Cortex M0 Microcontrollers from Microchip (formerly Atmel). Due to limited memory resources, I could only check the internal hardware and nothing fancy.   
